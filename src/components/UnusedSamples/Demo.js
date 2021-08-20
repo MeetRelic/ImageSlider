@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
 
-import Card from './Card.js';
+import Card from '../Card.js';
 
 class Deck extends Component {
     constructor(props) {
